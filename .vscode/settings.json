@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "solargraph.commandPath": "/usr/share/rvm/gems/ruby-3.0.0/bin/solargraph",
+  "ruby.format": "standard",
+  "[ruby]": {
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true
+  },
+  "solargraph.useBundler": false
+}
